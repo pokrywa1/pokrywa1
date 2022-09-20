@@ -18,6 +18,7 @@
 
 
 
-## 🛠 Skills
-Javascript, HTML, CSS
+## 🛠 Skills & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vscode,firebase,git,discord)](https://skillicons.dev)
 
