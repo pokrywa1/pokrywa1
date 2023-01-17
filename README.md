@@ -11,7 +11,7 @@
 
 👀 I'm looking for first experience as a frontend developer
 
-🥅 2022 goals: improve JavaScript and React.js knowledge
+🥅 2023 goals: improve JavaScript and React.js knowledge
 
 ⚡️ Fun fact: I love fishing 🐟
 
